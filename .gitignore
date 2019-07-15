@@ -29,3 +29,4 @@ target/
 *.iml
 *.classpath
 *.project
+.attach*
